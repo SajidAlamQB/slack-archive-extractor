@@ -19,7 +19,7 @@ Simple web app to extract messages from slackdump sqlite archives for LLM analys
 
 5. **Click Deploy** - takes ~2 minutes
 
-6. **Share the URL** with Alice!
+6. **Share the URL**
 
 ## Local Testing
 
